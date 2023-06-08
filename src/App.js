@@ -12,7 +12,7 @@ function App()
     <Header/>
     <Shows/>
     <ShowRegister/>
-    <Footer.js/>
+    <Footer/>
 
 </>
   
